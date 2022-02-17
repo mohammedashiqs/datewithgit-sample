@@ -1,0 +1,48 @@
+[33mcommit d620567f57ab3cd54ee71f6c41ddf21223b2c127[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: Mohammed Ashiq S <mrashiq.tvm@gmail.com>
+Date:   Wed Feb 16 21:13:13 2022 +0530
+
+    hello file modified
+
+[33mcommit 112cbf22de297551fd877a02d4259ac18977b92e[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Mohammed Ashiq S <mrashiq.tvm@gmail.com>
+Date:   Wed Feb 16 20:45:56 2022 +0530
+
+    hey file modified
+
+[33mcommit 68ad572f1b40202c4b2d0f9e4270b6946bfb1297[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 9bed18a 74c9dc0
+Author: Mohammed Ashiq S <mrashiq.tvm@gmail.com>
+Date:   Wed Feb 16 20:38:23 2022 +0530
+
+    WIP on feature: 9bed18a hey second file edited
+
+[33mcommit 74c9dc0db5ebbc44f0d1ee1b945848ab4e0c6c93[m
+Author: Mohammed Ashiq S <mrashiq.tvm@gmail.com>
+Date:   Wed Feb 16 20:38:23 2022 +0530
+
+    index on feature: 9bed18a hey second file edited
+
+[33mcommit 9bed18aeaabdd47f5f855e883fe5624cf78025a6[m
+Author: Mohammed Ashiq S <mrashiq.tvm@gmail.com>
+Date:   Wed Feb 16 13:26:21 2022 +0530
+
+    hey second file edited
+
+[33mcommit c9d36f3490e8da14bbbd60260610baa6033db3ac[m
+Author: Mohammed Ashiq S <mrashiq.tvm@gmail.com>
+Date:   Wed Feb 16 13:16:10 2022 +0530
+
+    Second file created
+
+[33mcommit 981770fb0e0bbfdddae82b739419d8d3cc15d80e[m
+Author: Mohammed Ashiq S <mrashiq.tvm@gmail.com>
+Date:   Wed Feb 16 10:37:53 2022 +0530
+
+    added some message
+
+[33mcommit ee8421d655a6f42bdd625c8a6b39a75109a7d628[m
+Author: Mohammed Ashiq S <mrashiq.tvm@gmail.com>
+Date:   Wed Feb 16 06:58:33 2022 +0530
+
+    New file created
